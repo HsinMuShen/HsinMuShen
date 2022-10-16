@@ -1,8 +1,8 @@
 
 
-<div align="center">
-   <h2>Hi there 👋 I am Hsin Mu Shen, or you can call me Michael!</h2>
-</div>
+
+   ## Hi there 👋 I am Hsin Mu Shen, or you can call me Michael!
+
 
 <p>I am an optimistic interdisciplinary learner, curious about everything, and love to learn by hand. Always enjoy the process of starting from scratch to accomplishing goals. After professional training in architecture, design, and programming, I am willing to collaborate and share my expertise with others. Hoping to explore the possibility of various solutions in an innovative way.</p>
 
