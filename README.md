@@ -21,9 +21,6 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 </div>
 
-[![Hsin Mu Shen's GitHub stats](https://github-readme-stats.vercel.app/api?username=HsinMuShen)](https://github.com/HsinMuShen/github-readme-stats)
-
-
 ## Contact
  * [LinkedIn](https://www.linkedin.com/in/hsin-mu-shen/)
  * <hsinmushen84@email.com>
